@@ -342,4 +342,8 @@ The documented TMP36/D8 mismatch and sensor-calibration limitations must be reso
 
 
     THIS IS THE LINK FOR THE TINKER CAD ASSIGHNMENT OR THE PROJECT I  HAVE DONE 
+
+
+
+    
     https://www.tinkercad.com/things/4SAbJ6AThaS-multi-hazard-detection-and-emergency-response-system?sharecode=etYa8CCMt825LskzIdlxuz2O5Ddp1HZ-ZBd9UakzCnA
