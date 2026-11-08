@@ -337,3 +337,9 @@ The documented TMP36/D8 mismatch and sensor-calibration limitations must be reso
 **Developed under\:AQUEEL.SHAIK'S Engineering Lab**
 **Project type:** Embedded Systems / Electronics / Tinkercad Simulation
 **Status:** Tinkercad implementation reported complete; hardware/software integration limitations documented.
+
+
+
+
+    THIS IS THE LINK FOR THE TINKER CAD ASSIGHNMENT OR THE PROJECT I  HAVE DONE 
+    https://www.tinkercad.com/things/4SAbJ6AThaS-multi-hazard-detection-and-emergency-response-system?sharecode=etYa8CCMt825LskzIdlxuz2O5Ddp1HZ-ZBd9UakzCnA
